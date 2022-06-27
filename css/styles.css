@@ -1,0 +1,44 @@
+img {
+  width: 20%;
+  height: auto;
+  display: inline-block;
+  margin: 25px 29px;
+}
+
+.tex{
+  display: inline-block;
+  margin: 25px 30px;
+}
+
+
+.lines {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
+}
+
+
+.textlining {
+  img {
+  width: 20%;
+  height: auto;
+  display: inline-block;
+  margin: 25px 29px;
+}
+
+.tex{
+  display: inline-block;
+  margin: 25px 30px;
+}
+
+
+.lines {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
+}
+
+
+.textlining {
+  text-decoration: underline;
+}
